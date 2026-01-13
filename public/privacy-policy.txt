@@ -1,0 +1,5 @@
+Privacy Policy - Messaging Automation Test
+
+This test endpoint demonstrates how a WhatsApp webhook could expose a privacy policy. No personal data is collected, stored, or shared by this sample service. Content received via the webhook is logged to the console for debugging during testing only and is not persisted.
+
+If you use this template in production, replace this text with your actual privacy policy and remove any logging of personal data. For questions, contact the project maintainer.
